@@ -35,7 +35,7 @@ disruption | n. 破坏; 毁坏; 分裂; 瓦解<br/>disrupt v.中断; 扰乱<br/>
 steelworker | n. 炼钢工人
 fluctuation ```[,flʌktʃʊ'eɪʃ(ə)n; -tjʊ-]```| n.起伏;波动
 harsh |adj. 严厉的；严酷的；刺耳的；粗糙的；刺目的<br/>harshly<br/>harshness
-retitee ```[rɪ,taɪə'riː] ``` | n.（美）退休人员；歇业者
+retiree ```[rɪ,taɪə'riː] ``` | n.（美）退休人员；歇业者
 campaign | vi. 作战；参加竞选；参加活动<br/>n. 运动；活动；战役
 borne | v.忍受; 负荷; 生子女; 结果实(bear过去分词)
 fashionable ```['fæʃ(ə)nəb(ə)l] ``` | adj. 流行的；时髦的；上流社会的
